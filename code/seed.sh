@@ -1,0 +1,1 @@
+mysql --host=host.docker.internal -P 3308 --user=root --password=pwd db < ./sql/seed.sql
